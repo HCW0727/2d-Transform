@@ -6,7 +6,7 @@ from preprocessing import bgremoval
 
 #####################################
 
-scales = [0 , 7 , 10, 5 , 3 , 0]
+scales = [0 , 3 , 15, 5 , 3 , 0]
 test_route = "img.png"
 
 #####################################
